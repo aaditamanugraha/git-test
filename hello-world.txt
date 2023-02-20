@@ -1,0 +1,1 @@
+hello world, hari ini saya belajar git dan github di "The Odin Project".
